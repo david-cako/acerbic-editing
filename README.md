@@ -1,3 +1,5 @@
+# Acerbic Editing
+
 Quite often you will have structured data that you want to make templated edits to all at once.  For example, if you have a struct definition or a JSON file and you want to use all of the fields in a large variable declaration. (Although perhaps there's an)
 
 Visual Studio Code has some great shortcuts that make this fun and easy.

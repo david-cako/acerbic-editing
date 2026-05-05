@@ -10,8 +10,10 @@ Think in melody.  What words do you have, and what are you trying to change?
 
 - `⌘` + `D`: Create additional cursor at next match for selection
 - `⎇` + `Click`: Create additional cursor at pointer
+- `⌘` + `⎇` + `↑`/`↓`: Create additional cursor on line above/below
 - `⎇` + `←`/`→`: Navigate cursor left/right one word at a time
 - `Shift` + `←`/`→`: Select under cursor
+- `⎇` + `↑`/`↓`: Move line up/down
 - `⌘` + `Shift` + `P`: Open Command Palette
   - `Delete All Right`
   - `Delete All Left`

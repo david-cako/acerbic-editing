@@ -14,9 +14,9 @@ Think in melody.  What words do you have, and what are you trying to change?
 - `⎇` + `←`/`→`: Navigate cursor left/right one word at a time
 - `Shift` + `←`/`→`: Select under cursor
 - `⎇` + `↑`/`↓`: Move line up/down
-- `⌘` + `Shift` + `P`: Open Command Palette
-  - `Delete All Right`
-  - `Delete All Left`
+- `⌘` + `delete`: Delete all left
+- `⌘` + `fn` + `delete`: Delete all right
+- `⌘` + `shift` + `P`: Open Command Palette
   - `Transform to Uppercase`
   - `Transform to Lowercase`
 
